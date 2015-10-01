@@ -60,7 +60,7 @@ h1 {
 
 h2 {
   font-size: 2em;
-  margin: 1.5em 0; }
+  margin: 0; }
 
 h3 {
   color: #555;
@@ -87,6 +87,15 @@ p {
 
 .grid-cell > * {
   padding: 0 15px; }
+
+.post-list {
+  text-align: left; }
+
+.post-meta {
+  font-size: small; }
+
+.post-list li {
+  list-style-type: none; }
 
 .inline-block-list {
   list-style-type: none;
