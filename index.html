@@ -12,6 +12,7 @@ layout: default
           </h2>
 
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          {% for category in post.categories %} | <a href="{{ category | slugify }}">{{ category}}</a> {% endfor %}
 
           <p>{{ post.excerpt }}</p>
         </li>
