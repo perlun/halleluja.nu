@@ -97,6 +97,15 @@ p {
 .post-list li {
   list-style-type: none; }
 
+.post {
+  text-align: left; }
+
+.bible, .quote, .prayer {
+  font-style: italic;
+  margin-left: 2em;
+  padding-left: 1em;
+  border-left: 4px solid #ddd; }
+
 .inline-block-list {
   list-style-type: none;
   margin: 0;
