@@ -3,7 +3,8 @@ layout:       post
 title:        Är det okej att dricka alkohol om man är kristen?
 date:         2013-04-20
 modifiedDate: 2013-04-20
-categories:   Undervisning från bibeln
+categories:
+- Undervisning från bibeln
 language:     sv
 ---
 <p>Är det okej att dricka alkohol om man är kristen? Jag påstår att det <em>inte</em> är okej. I den här artikeln får du veta varför.</p>

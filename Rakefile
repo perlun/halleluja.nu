@@ -34,7 +34,8 @@ layout:       post
 title:        #{a.subject.sub("\n", ' ')}
 date:         #{a.createdDate}
 modifiedDate: #{a.modifiedDate}
-categories:   #{categories_sv[a.topicID]}
+categories:
+- #{categories_sv[a.topicID]}
 language:     #{a.language}
 ---
 #{a.introduction.delete('\\')}
