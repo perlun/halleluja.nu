@@ -25,6 +25,9 @@ task :convert do
   articles
     .select { |a| a.language == 'sv' }
     .each { |a|
+      a.text.gsub!('</p> <p', '</p><p')
+      a.text.gsub!('</p><p class="quote">', '<br><br>')
+
       s = <<-EOF
 ---
 layout:       post
