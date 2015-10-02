@@ -34,7 +34,7 @@ modifiedDate: #{a.modifiedDate}
 categories:   #{categories_sv[a.topicID]}
 language:     #{a.language}
 ---
-#{a.introduction}
+#{a.introduction.delete('\\')}
 
 #{a.text}
 EOF
