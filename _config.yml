@@ -13,5 +13,8 @@ markdown: redcarpet
 
 permalink:        pretty
 
+category_archive:
+  slugify:        true
+
 gems:
   - jemoji
