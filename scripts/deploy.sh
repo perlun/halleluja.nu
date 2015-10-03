@@ -1,3 +1,3 @@
 #!/bin/sh
 
-rsync -gloprtv --delete . www-data@www.halleluja.nu:www.halleluja.nu/
+rsync -gloprtv --delete . www-data@85.134.56.45:www.halleluja.nu/
