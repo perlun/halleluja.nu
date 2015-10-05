@@ -18,3 +18,5 @@ category_archive:
 
 gems:
   - jemoji
+
+exclude: [vendor]
