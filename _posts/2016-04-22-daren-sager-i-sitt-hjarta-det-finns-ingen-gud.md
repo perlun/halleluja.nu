@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        Dåren säger i sitt hjärta: "Det finns ingen Gud"
+title:        Dåren säger i sitt hjärta\: "Det finns ingen Gud"
 date:         2016-04-22
 modifiedDate: 2016-04-22
 categories:
