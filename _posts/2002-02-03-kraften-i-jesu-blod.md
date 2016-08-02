@@ -95,25 +95,13 @@ för att jag känner honom. Han skickar inte sådant på sina barn. Bibeln
 är väldigt tydlig på det här, och särskilt Nya Testamentet. Jag ska
 citera några verser för dig.
 
-<em>Om ni som är onda [står under
-djävulens makt] förstår att ge era barn goda gåvor, hur mycket mer
-skall då inte er Fader i himlen ge det som är gott åt dem som ber
-honom.</em> (Matt 7:11)
+> Om ni som är onda [står under djävulens makt] förstår att ge era barn goda gåvor, hur mycket mer skall då inte er Fader i himlen ge det som är gott åt dem som ber honom. (Matt 7:11)
 
-<em>Allt det goda vi får och varje
-fullkomlig gåva är från ovan och kommer ner från ljusens Fader, hos
-vilken ingen förändring sker och ingen växling mellan ljus och
-mörker.</em> (Jak 1:17)
+> Allt det goda vi får och varje fullkomlig gåva är från ovan och kommer ner från ljusens Fader, hos vilken ingen förändring sker och ingen växling mellan ljus och mörker. (Jak 1:17)
 
-<em>Lova HERREN, min själ, och glöm
-inte alla hans välgärningar, han som förlåter dig alla [inte bara en
-del, utan alla!] dina synder och botar alla [samma här] dina
-sjukdomar, han som återlöser ditt liv från förgängelsen och kröner dig
-med nåd och barmhärtighet, han som mättar ditt begär med sitt goda, så
-att du blir ung på nytt som en örn.</em> (Ps 103:2-5)
+> Lova HERREN, min själ, och glöm inte alla hans välgärningar, han som förlåter dig alla [inte bara en del, utan alla!] dina synder och botar alla [samma här] dina sjukdomar, han som återlöser ditt liv från förgängelsen och kröner dig med nåd och barmhärtighet, han som mättar ditt begär med sitt goda, så att du blir ung på nytt som en örn. (Ps 103:2-5)
 
-Käre
-vän, du behöver förstå att Gud är bara god! Han är inte god på måndag,
+Käre vän, du behöver förstå att Gud är bara god! Han är inte god på måndag,
 ond på tisdag, och lite mitt-emellan på onsdag. Läs min predikan om
 just detta så får du veta lite mer om det.
 
@@ -150,62 +138,38 @@ här människan." "Om det är din vilja, så bota den här människan."
 problem." Det där är inget annat än otro förtäckt i fromma religiösa
 fraser. Men Gud vill byta ut otro mot tvivel, halleluja!
 
-Nå,
-efter en liten inledning :-) så kanske det är dags att börja prata
+Nå, efter en liten inledning :-) så kanske det är dags att börja prata
 lite om Jesu blod. Jag vet ju inte hur mycket förkunskaper du har om
 det gamla prästerskapet under Mose förbund och så vidare, men jag ska
 börja med att citera några verser som handlar om Jesu
 blod.
 
-<em>Men nu har ni, som är i Kristus Jesus och som en
-gång var långt borta, kommit nära genom Kristi blod.</em> (Ef
-2:13. Genom Jesu blod har vi tillträde till Fadern, och han lyssnar på
-oss)
+> Men nu har ni, som är i Kristus Jesus och som en gång var långt borta, kommit nära genom Kristi blod. (Ef 2:13)
 
-<em>Ni har kommit till det nya förbundets medlare, Jesus,
-och till det renande blodet som talar starkare än Abels blod.</em>
-(Hebr 12:24. Abels blod ropade från marken så starkt att Gud hörde det
-ända uppe i himlen (1 Mos 4:10)! Hur kraftfullt tror du då inte att
-detta blod är, som sägs "tala starkare" än detta?
+Genom Jesu blod har vi tillträde till Fadern, och han lyssnar på oss.
 
-<em>Ni är
-av Gud, Fadern, förutbestämda till att helgas genom Anden, så att ni
-lyder och blir bestänkta med Jesu Kristi blod.</em> (1 Pet 1:2. Här
-tar aposteln Petrus upp något viktigt. Vi kan bli bestänkta med Jesu
-blod. Det är ett blod som skyddar oss från djävulens attacker och som
-håller oss rena i världen)
+> Ni har kommit till det nya förbundets medlare, Jesus, och till det renande blodet som talar starkare än Abels blod. (Hebr 12:24)
 
-<em>Men om vi vandrar i ljuset,
-liksom han är i ljuset, så har vi gemenskap med varandra, och Jesu,
-hans Sons, blod renar oss från all synd.</em> (1 Joh 1:7. Samma som Ps
-103:3. Gud förlåter oss från all synd. Men faktiskt mer än så. Han
-inte bara förlåter oss vår synd, utan glömmer den fullständigt! Detta
-är en makalös uppenbarelse, men det är vad bibeln säger. I Guds ögon
-är det som om du aldrig någonsin begått en enda synd. Han ser dig helt
-och hållet genom Jesu blod)
+Abels blod ropade från marken så starkt att Gud hörde det ända uppe i himlen (1 Mos 4:10)! Hur kraftfullt tror du då inte att detta blod är, som sägs "tala starkare" än detta?
 
-<em>...från Jesus Kristus, det
-trovärdiga vittnet, den förstfödde från de döda och härskaren över
-jordens kungar. Han som älskar oss och har friköpt oss från våra
-synder med sitt blod</em> (Upp 1:5. Samma sak som jag tog upp i början
-- synden har inte längre något herravälde över dig. Du är fri, inte på
-grund av egna ansträngningar, utan på grund av vad Jesus gjorde genom
-sitt offer)
+> Ni är av Gud, Fadern, förutbestämda till att helgas genom Anden, så att ni lyder och blir bestänkta med Jesu Kristi blod. (1 Pet 1:2)
+
+Här tar aposteln Petrus upp något viktigt. Vi kan bli bestänkta med Jesu blod. Det är ett blod som skyddar oss från djävulens attacker och som håller oss rena i världen.
+
+> Men om vi vandrar i ljuset, liksom han är i ljuset, så har vi gemenskap med varandra, och Jesu, hans Sons, blod renar oss från all synd. (1 Joh 1:7)
+
+Samma som Ps 103:3. Gud förlåter oss från all synd. Men faktiskt mer än så. Han inte bara förlåter oss vår synd, utan glömmer den fullständigt! Detta är en makalös uppenbarelse, men det är vad bibeln säger. I Guds ögon är det som om du aldrig någonsin begått en enda synd. Han ser dig helt och hållet genom Jesu blod.
+
+> ...från Jesus Kristus, det trovärdiga vittnet, den förstfödde från de döda och härskaren över jordens kungar. Han som älskar oss och har friköpt oss från våra synder med sitt blod (Upp 1:5)
+
+Samma sak som jag tog upp i början - synden har inte längre något herravälde över dig. Du är fri, inte på grund av egna ansträngningar, utan på grund av vad Jesus gjorde genom sitt offer.
 
 Men följande citat slår ändå alla de tidigare:
 
+> Och jag hörde en stark röst i himlen säga: "Nu har frälsningen och makten och riket blivit vår Guds och väldet hans
+Smordes. Ty våra bröders åklagare har blivit nerkastad, han som dag och natt anklagade dem inför vår Gud. De övervann honom genom Lammets blod och genom sitt vittnesbörds ord. De älskade inte sitt liv så högt att de drog sig undan döden. (Upp 12:10-11).
 
-<em>Och jag hörde en stark röst i himlen säga: "Nu har
-frälsningen och makten och riket blivit vår Guds och väldet hans
-Smordes. Ty våra bröders åklagare har blivit nerkastad, han som dag
-och natt anklagade dem inför vår Gud. De övervann honom genom Lammets
-blod och genom sitt vittnesbörds ord. De älskade inte sitt liv så högt
-att de drog sig undan döden.</em> (Upp 12:10-11. Det här är det sorts
-liv Jesus vill att du ska leva! Så fort något problem kommer emot dig,
-hänvisa till Jesu blod. När djävulen kommer och försöker säga åt dig
-att du inte är ett Guds barn, hänvisa till Jesu blod! Man kan
-fortsätta länge, men jag tror att du förstår vart jag vill komma)
-
+Det här är det sorts liv Jesus vill att du ska leva! Så fort något problem kommer emot dig, hänvisa till Jesu blod. När djävulen kommer och försöker säga åt dig att du inte är ett Guds barn, hänvisa till Jesu blod! Man kan fortsätta länge, men jag tror att du förstår vart jag vill komma.
 
 Jag brukar ofta be om blodets beskydd över min dag. Gör det du
 också, och förstå vad det är du ber! Du kommer att bli fullständigt
