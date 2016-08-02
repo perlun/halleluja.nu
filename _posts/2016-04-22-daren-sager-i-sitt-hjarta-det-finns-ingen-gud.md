@@ -55,4 +55,4 @@ Om du som läser detta inte tror på Jesus men vill lära känna honom och få d
 
 > Herre Jesus, jag känner inte dig, men jag vill lära känna dig. Lär mig vem du är och låt mig få bli ditt barn. Jag tror på att du har dött för min skull, och uppstått från de döda. I Jesu Namn, Amen.
 
-Gud välsigne dig! Ta gärna kontakt med mig om du vill ha hjälp på vägen. Du kan också ta kontakt med någon församling eller kyrka i närheten av där du bor så kan de hjälpa dig att växa i tron. http://www.kyrksajten.se har en funktion där du kan söka baserat på ditt riktnummerområde, så kan du hitta en församlingsgemenskap nära dig.
+Gud välsigne dig! Ta gärna kontakt med mig om du vill ha hjälp på vägen. Du kan också ta kontakt med någon församling eller kyrka i närheten av där du bor så kan de hjälpa dig att växa i tron. [www.kyrksajten.se](http://www.kyrksajten.se) har en funktion där du kan söka baserat på ditt riktnummerområde, så kan du hitta en församlingsgemenskap nära dig.
