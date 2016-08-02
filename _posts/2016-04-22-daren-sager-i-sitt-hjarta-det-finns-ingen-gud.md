@@ -25,7 +25,7 @@ Alla dessa idéer har det gemensamt att de _förnekar_ den bibliska uppenbarelse
 
 Jag måste erkänna att jag har lite svårt att förstå renodlad ateism. Agnosticism kan jag ändå se någon form av intellektuell ödmjukhet i, att man inte tar tydlig ställning till det man inte fått erfara. Men ateism? Att säga att man _vet_ att Gud inte finns, när hela naturen vittnar om Hans storhet och godhet gentemot oss, det övergår verkligen mitt förstånd.
 
-Konstruktionerna i människokroppen. Örats komplexa uppbyggnad, ögats likaså. Den mänskliga hjärnan. Strukturerna i et löv, som för trädets sav ut från rötterna och stammen ända ut till ovansidan på lövet. Stjärnorna på himlen en smällkall natt, som gnistrar mot den svarta himlen. Fullmånens starka ljus som verkligen lyser upp en mörk natt.
+Konstruktionerna i människokroppen. Örats komplexa uppbyggnad, ögats likaså. Den mänskliga hjärnan. Strukturerna i ett löv, som för trädets sav ut från rötterna och stammen ända ut till ovansidan på lövet. Stjärnorna på himlen en smällkall natt, som gnistrar mot den svarta himlen. Fullmånens starka ljus som verkligen lyser upp en mörk natt.
 
 Allt detta är för mig så otroligt starka och ovedersägliga Gudsbevis. Det går inte, det är helt enkelt inte _möjligt_ att bortförklara allt detta som ett sammanträffande. Det finns för mycket "struktur" och system i Skapelsen för att kunna vifta bort det på det sättet. Detta beskrivs också av Paulus i Rom 1:20:
 
