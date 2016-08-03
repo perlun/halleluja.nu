@@ -76,7 +76,7 @@ gånger men ändå aldrig kommit in i Guds rike. Tro är nämligen inte
 enbart att intellektuellt hålla med om en lära, utan det är
 framförallt hjärtats förtröstan och övertygelse. Du kan bli född på
 nytt just nu och få denna frid som jag talar om. Be bara den här
-bönen. <em>Jesus, jag kommer till nu precis som jag är. Jag vet att
+bönen. <em>Jesus, jag kommer till dig nu precis som jag är. Jag vet att
 jag gjort många dumma saker i mitt liv. Jag förtjänar inte att få
 komma till himlen eller vandra med dig. Men jag tror att du dog för
 syndare, precis sådana som mig. Jesus, förlåt mig för mina
