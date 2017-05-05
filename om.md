@@ -17,7 +17,7 @@ Här kan du läsa lite mer om [vår lära](/var-lara).
 
 ## Personlig information
 
-halleluja.nu drivs av <a href="mailto:per@halleluja.nu">Per Lundberg</a>. På [den här sidan](http://per.halleluja.nu/om/) hittar du några andra sätt att kontakta mig också.
+halleluja.nu drivs av <a href="mailto:per@halleluja.nu">Per Lundberg</a>. På [den här sidan](http://per.halleluja.nu/sv/om/) hittar du några andra sätt att kontakta mig.
 
 ## Kontakt
 
