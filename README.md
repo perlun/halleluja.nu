@@ -3,3 +3,14 @@
 # halleluja.nu
 
 Source code for the http://halleluja.nu web site.
+
+## Local development
+
+```shell
+$ bundle install
+$ bundle exec jekyll serve -w
+```
+
+## Deployment of updated content
+
+Just push up changes to the `master` branch, and Travis CI will take care of the rest.
