@@ -16,33 +16,20 @@ Men jag vill börja med att citera ett
 stycke från en författare som jag tycker väldigt mycket
 om:
 
-<em>The Incarnation was the union of Deity and humanity in
-the Babe of Bethlehem.
-It was Love\'s intrusion in the realm of
-selfishness.
-The long anticipated had at last arrived.
-God was
-united with humanity.
-The intrusion was not with an army... it was
-in the form of a dainty Babe.
-It was like love, a helplesspless
-thing.
-They called His Name Jesus.
-That Name has filled the ages
-with songs and melodies.
-It has brought courage to the defeated;
-liberty to the slave; strength to the weak; healing to the sick; and
-Eternal Life to the world.
-That Babe who gave Mary her first great
-joy in that little town of Bethlehem, restored to woman the crown that
-she lost in the Garden of Eden.
-She was man\'s help-meet, she
-became his slave after the Fall.
-Jesus gave her hope, equality, and
-made her the queen of the heart of the New Creation.
-
-(EW
-Kenyon, What Happened From The Cross To The Throne,
+> The Incarnation was the union of Deity and humanity in the Babe of Bethlehem.<br>
+> It was Love's intrusion in the realm of selfishness.<br>
+> The long anticipated had at last arrived.<br>
+> God was united with humanity.<br>
+> The intrusion was not with an army... it was in the form of a dainty Babe.<br>
+> It was like love, a helpless thing.<br>
+> They called His Name Jesus.<br>
+> That Name has filled the ages with songs and melodies.<br>
+> It has brought courage to the defeated; liberty to the slave; strength to the weak; healing to the sick; and Eternal Life to the world.<br>
+> That Babe who gave Mary her first great joy in that little town of Bethlehem, restored to woman the crown that she lost in the Garden of Eden.<br>
+> She was man's help-meet, she became his slave after the Fall.<br>
+> Jesus gave her hope, equality, and made her the queen of the heart of the New Creation.
+>
+> (EW Kenyon, What Happened From The Cross To The Throne,
 sid.18)</em>
 
 När jag för första gången läste detta gick det upp
