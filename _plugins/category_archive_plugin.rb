@@ -35,8 +35,8 @@ module Jekyll
 
     def posts_group_by_category(site)
       category_map = {}
-      site.posts.each { |p|
-        p.categories.each { |c|
+      site.posts.docs.each { |p|
+        p.data.fetch('categories').each { |c|
           (category_map[c] ||= []) << p
         }
       }
@@ -44,32 +44,8 @@ module Jekyll
     end
   end
 
-  # Tag for generating a link to a category archive page
-  class CategoryArchiveLinkTag < Liquid::Block
-    def initialize(tag_name, category, tokens)
-      super
-      @category = category.split(' ').first || category
-    end
-
-    def render(context)
-      # If the category is a variable in the current context, expand it
-      if context.has_key?(@category)
-        category = context[@category]
-      else
-        category = @category
-      end
-
-      if context.registers[:site].config['category_archive'] && context.registers[:site].config['category_archive']['slugify']
-        category = Utils.slugify(category)
-      end
-
-      href = File.join('/', context.environments.first['site']['category_archive']['path'],
-                       category, 'index.html')
-      "<a href=\"#{href}\">#{super}</a>"
-    end
-  end
-
-  # Actual page instances
+  # Actual page instances. This class controls where the category
+  # archive pages are written on disk.
   class CategoryArchivePage < Page
     ATTRIBUTES_FOR_LIQUID = %w[
       category,
@@ -79,7 +55,7 @@ module Jekyll
     def initialize(site, dir, category, posts)
       @site = site
       @dir = dir
-      @category = category
+      @category = category.downcase
 
       if site.config['category_archive'] && site.config['category_archive']['slugify']
         @category_dir_name = Utils.slugify(@category) # require sanitize here
@@ -131,11 +107,10 @@ module Jekyll
   end
 end
 
-Liquid::Template.register_tag('categorylink', Jekyll::CategoryArchiveLinkTag)
-
 # The MIT License (MIT)
 #
 # Copyright (c) 2013 Shigeya Suzuki
+# Copyright (c) 2019 Per Lundberg
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
