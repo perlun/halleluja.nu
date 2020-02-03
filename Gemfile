@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'ffi', '~> 1.12.1'
+gem 'ffi', '~> 1.12.2'
 gem 'html-proofer'
 gem 'jekyll', '~> 3.8.6'
 gem 'jemoji', '< 0.12'
