@@ -1,0 +1,4 @@
+[submodule "halleluja.nu"]
+	path = old-site
+	url = git@github.com:perlun/halleluja.nu.git
+	branch = master
