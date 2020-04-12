@@ -45,7 +45,7 @@ ett mörkt rum. Allt mörker måste ge vika.
 Människan kan alltså
 inte nalkas Gud på sitt eget sätt. Gud gav i lagens förbund olika
 metoder genom vilka en syndig människa skulle kunna idka umgänge med
-honom. Om du är riktigt intresserad i detta så kan du läsa 3
+honom. Om du är riktigt intresserad av detta så kan du läsa 3
 Mosebok.
 
 Det slutgiltiga offret är Jesus Kristus, som
@@ -89,7 +89,7 @@ vad det betyder att du är rättfärdiggjord.</em> I denna kategori
 befinner sig alltför många människor, och det är egentligen främst för
 dig som jag skriver denna predikan. Men om du blivit frälst genom att
 läsa hittils så kommer även du ha nytta av att höra vad som nu
-kommer</li></ul>
+kommer.</li></ul>
 
 Det står i Rom 1:17 att evangelium är en
 <em>uppenbarelse</em> om rättfärdighet. Det är någonting som ingen
@@ -113,7 +113,7 @@ att få se en verkligt härlig förändring i ditt liv!
 
 I det gamla
 förbundet så fick de gudfruktiga en <em>tillräknad rättfärdighet</em>
-på grund av sin tro. Rom 4:3. I det nya förbundet har vi inte mindre
+på grund av sin tro, Rom 4:3. I det nya förbundet har vi inte mindre
 än en <em>trefaldig</em> rättfärdighet. Nu ska du få höra.
 
 Vi
@@ -125,7 +125,7 @@ se det som att du har ett bankkonto med en skuld på 100 miljarder. Du
 kommer inte kunna betala skulden oavsett hur mycket du sliter. Men
 skulden blir efterskänkt genom att någon annan betalar den. Detta är
 precis vad som skedde i Jesu ställföreträdande offer. Du går allså
-från -100,000,000,000 till 0.
+från -100 000 000 000 på kontot till 0. Skulden är betald.
 
 Men detta är inte allt. Du får
 även en <em>rättfärdig natur</em> enligt Ef 4:24 och Kol 3:16 samt 2
@@ -162,7 +162,7 @@ kreativitet, glädje, frid och harmoni. Alla mänskliga utopiska
 ideologier som socialism, feminism, djurrättsrörelse, etc. skulle
 falla som ett korthus till marken. Människor skulle se att
 <em>här</em> finns det som de gått och letat efter hela sitt liv. Ja,
-pris ske Gud för den helige Ande, och tack för vad han vill göra i
+pris ske Gud för den helige Ande, och tack för vad Han vill göra i
 vårt liv! <em>"Då känner jag Kristus och kraften från [i] hans
 uppståndelse"</em>, Fil 3:10. Detta är så ljuvligt och jag bara
 önskar att det ska få bli en verklighet så mycket starkare i ditt och
