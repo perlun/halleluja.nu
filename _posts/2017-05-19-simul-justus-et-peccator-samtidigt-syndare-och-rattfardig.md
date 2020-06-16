@@ -2,7 +2,6 @@
 layout:       post
 title:        Simul justus et peccator - samtidigt syndare och rättfärdig
 date:         2017-05-19
-modifiedDate: 2016-05-19
 categories:
 - Undervisning från bibeln
 language:     sv
