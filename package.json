@@ -1,0 +1,22 @@
+{
+    "name": "halleluja.nu",
+    "version": "3.0.0",
+    "description": "The source code for the halleluja.nu web site",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/perlun/halleluja.nu.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/perlun/halleluja.nu/issues"
+    },
+    "homepage": "https://github.com/perlun/halleluja.nu#readme",
+    "dependencies": {
+        "ejs": "^3.1.3"
+    }
+}
