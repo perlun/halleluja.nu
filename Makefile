@@ -31,6 +31,7 @@ site: \
 		out/index.html \
 		out/sv/om/index.html \
 		out/sv/om/var-lara/index.html \
+		out/sv/om/var-lara/v1/index.html \
 		out/js \
 		out/js/main.js \
 		out/js/plugins.js \
@@ -46,6 +47,8 @@ autobuild:
 #
 # Tasks for individual files being generated.
 #
+# TODO: Automate this by means of including some functionality for this in the
+# sitegen tool.
 out/index.html: src/index.hbs src/includes/header.hbs src/includes/footer.hbs $(SITEGEN) config.toml
 		$(SITEGEN) $< $(@)
 
@@ -53,6 +56,9 @@ out/sv/om/index.html: src/sv/om/index.hbs out/sv/om src/includes/header.hbs src/
 		$(SITEGEN) $< $(@)
 
 out/sv/om/var-lara/index.html: src/sv/om/var-lara/index.hbs out/sv/om/var-lara src/includes/header.hbs src/includes/page_header.hbs src/includes/footer.hbs src/includes/page_footer.hbs $(SITEGEN) config.toml
+		$(SITEGEN) $< $(@)
+
+out/sv/om/var-lara/v1/index.html: src/sv/om/var-lara/v1/index.hbs out/sv/om/var-lara/v1 src/includes/header.hbs src/includes/page_header.hbs src/includes/footer.hbs src/includes/page_footer.hbs $(SITEGEN) config.toml
 		$(SITEGEN) $< $(@)
 
 #
@@ -71,6 +77,9 @@ out/sv/om:
 		mkdir -p $(@)
 
 out/sv/om/var-lara:
+		mkdir -p $(@)
+
+out/sv/om/var-lara/v1:
 		mkdir -p $(@)
 
 #
