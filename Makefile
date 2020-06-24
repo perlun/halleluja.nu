@@ -1,3 +1,8 @@
+# 'dotnet build' will potentially take care of making this one only rebuild as
+# much as is necessary. At the moment, I think it rebuilds unconditionally
+# though.
+.PHONY: sitegen
+
 SITEGEN=bin/sitegen
 
 # Meta-tasks
@@ -24,6 +29,8 @@ site: \
 		out/favicon.ico \
 		out/icon.png \
 		out/index.html \
+		out/sv/om/index.html \
+		out/sv/om/var-lara/index.html \
 		out/js \
 		out/js/main.js \
 		out/js/plugins.js \
@@ -39,7 +46,13 @@ autobuild:
 #
 # Tasks for individual files being generated.
 #
-out/index.html: src/index.hbs src/includes/footer.hbs $(SITEGEN) config.toml
+out/index.html: src/index.hbs src/includes/header.hbs src/includes/footer.hbs $(SITEGEN) config.toml
+		$(SITEGEN) $< $(@)
+
+out/sv/om/index.html: src/sv/om/index.hbs out/sv/om src/includes/header.hbs src/includes/page_header.hbs src/includes/footer.hbs src/includes/page_footer.hbs $(SITEGEN) config.toml
+		$(SITEGEN) $< $(@)
+
+out/sv/om/var-lara/index.html: src/sv/om/var-lara/index.hbs out/sv/om/var-lara src/includes/header.hbs src/includes/page_header.hbs src/includes/footer.hbs src/includes/page_footer.hbs $(SITEGEN) config.toml
 		$(SITEGEN) $< $(@)
 
 #
@@ -49,9 +62,15 @@ out/css:
 		mkdir -p $(@)
 
 out/js:
-		mkdir -p $(@)
+		mkdir -p $(@)var
 
 out/js/vendor:
+		mkdir -p $(@)
+
+out/sv/om:
+		mkdir -p $(@)
+
+out/sv/om/var-lara:
 		mkdir -p $(@)
 
 #
