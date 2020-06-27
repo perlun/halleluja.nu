@@ -49,16 +49,16 @@ autobuild:
 #
 # TODO: Automate this by means of including some functionality for this in the
 # sitegen tool.
-out/index.html: src/index.hbs src/includes/header.hbs src/includes/footer.hbs $(SITEGEN) config.toml
+out/index.html: src/index.hbs src/_includes/header.hbs src/_includes/footer.hbs $(SITEGEN) config.toml
 		$(SITEGEN) $< $(@)
 
-out/sv/om/index.html: src/sv/om/index.hbs out/sv/om src/includes/header.hbs src/includes/page_header.hbs src/includes/footer.hbs src/includes/page_footer.hbs $(SITEGEN) config.toml
+out/sv/om/index.html: src/sv/om/index.hbs out/sv/om src/_includes/header.hbs src/_includes/page_header.hbs src/_includes/footer.hbs src/_includes/page_footer.hbs $(SITEGEN) config.toml
 		$(SITEGEN) $< $(@)
 
-out/sv/om/var-lara/index.html: src/sv/om/var-lara/index.hbs out/sv/om/var-lara src/includes/header.hbs src/includes/page_header.hbs src/includes/footer.hbs src/includes/page_footer.hbs $(SITEGEN) config.toml
+out/sv/om/var-lara/index.html: src/sv/om/var-lara/index.hbs out/sv/om/var-lara src/_includes/header.hbs src/_includes/page_header.hbs src/_includes/footer.hbs src/_includes/page_footer.hbs $(SITEGEN) config.toml
 		$(SITEGEN) $< $(@)
 
-out/sv/om/var-lara/v1/index.html: src/sv/om/var-lara/v1/index.hbs out/sv/om/var-lara/v1 src/includes/header.hbs src/includes/page_header.hbs src/includes/footer.hbs src/includes/page_footer.hbs $(SITEGEN) config.toml
+out/sv/om/var-lara/v1/index.html: src/sv/om/var-lara/v1/index.hbs out/sv/om/var-lara/v1 src/_includes/header.hbs src/_includes/page_header.hbs src/_includes/footer.hbs src/_includes/page_footer.hbs $(SITEGEN) config.toml
 		$(SITEGEN) $< $(@)
 
 #
@@ -68,7 +68,7 @@ out/css:
 		mkdir -p $(@)
 
 out/js:
-		mkdir -p $(@)var
+		mkdir -p $(@)
 
 out/js/vendor:
 		mkdir -p $(@)
