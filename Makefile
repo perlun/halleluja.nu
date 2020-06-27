@@ -42,23 +42,23 @@ site: \
 		out/tile.png
 
 autobuild:
-		while true; do find bin config.toml Makefile src -type f | entr -d bash -c 'scripts/time_it make site' ; done
+		while true; do find bin config.yaml Makefile src -type f | entr -d bash -c 'scripts/time_it make site' ; done
 
 #
 # Tasks for individual files being generated.
 #
 # TODO: Automate this by means of including some functionality for this in the
 # sitegen tool.
-out/index.html: src/index.hbs src/_includes/header.hbs src/_includes/footer.hbs $(SITEGEN) config.toml
+out/index.html: src/index.hbs src/_includes/header.hbs src/_includes/footer.hbs $(SITEGEN) config.yaml
 		$(SITEGEN) $< $(@)
 
-out/sv/om/index.html: src/sv/om/index.hbs out/sv/om src/_includes/header.hbs src/_includes/page_header.hbs src/_includes/footer.hbs src/_includes/page_footer.hbs $(SITEGEN) config.toml
+out/sv/om/index.html: src/sv/om/index.hbs out/sv/om src/_includes/header.hbs src/_includes/page_header.hbs src/_includes/footer.hbs src/_includes/page_footer.hbs $(SITEGEN) config.yaml
 		$(SITEGEN) $< $(@)
 
-out/sv/om/var-lara/index.html: src/sv/om/var-lara/index.hbs out/sv/om/var-lara src/_includes/header.hbs src/_includes/page_header.hbs src/_includes/footer.hbs src/_includes/page_footer.hbs $(SITEGEN) config.toml
+out/sv/om/var-lara/index.html: src/sv/om/var-lara/index.hbs out/sv/om/var-lara src/_includes/header.hbs src/_includes/page_header.hbs src/_includes/footer.hbs src/_includes/page_footer.hbs $(SITEGEN) config.yaml
 		$(SITEGEN) $< $(@)
 
-out/sv/om/var-lara/v1/index.html: src/sv/om/var-lara/v1/index.hbs out/sv/om/var-lara/v1 src/_includes/header.hbs src/_includes/page_header.hbs src/_includes/footer.hbs src/_includes/page_footer.hbs $(SITEGEN) config.toml
+out/sv/om/var-lara/v1/index.html: src/sv/om/var-lara/v1/index.hbs out/sv/om/var-lara/v1 src/_includes/header.hbs src/_includes/page_header.hbs src/_includes/footer.hbs src/_includes/page_footer.hbs $(SITEGEN) config.yaml
 		$(SITEGEN) $< $(@)
 
 #

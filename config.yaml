@@ -1,0 +1,5 @@
+config:
+  source_dir: src
+
+site:
+  title: halleluja.nu
