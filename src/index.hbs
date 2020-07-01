@@ -4,22 +4,23 @@
   <div class="container">
     <ul class="post-list">
 
-      <li>
-        <h2>
-          <a class="post-link"
-            href="/undervisning-fran-bibeln/2017/5/19/simul-justus-et-peccator-samtidigt-syndare-och-rattfardig">Simul
-            justus et peccator - samtidigt syndare och rättfärdig</a>
-        </h2>
+      {{#each blog_posts}}
+        <li>
+          <h2>
+            <a class="post-link" href="{{link}}">{{{title}}}</a>
+          </h2>
 
-        <span class="post-meta">May 19, 2017</span>
-        | <a href="undervisning-fran-bibeln">Undervisning från bibeln</a>
+          <span class="post-meta">{{date}}</span>
+          {{#each categories}}
+            | <a href="{{slug}}">{{name}}</a>
+          {{/each}}
 
-        <p>
-        <p>En av Martin Luthers mer centrala begrepp är <em>simul justus et peccator</em>, synsättet att människan
-          även i sitt försonade tillstånd då hon är <em>rättfärdiggjord</em> inför Gud fortfarande på samma gång är en
-          syndare. I denna artikel tänkte jag vi skulle titta lite närmare på detta.</p>
-        </p>
-      </li>
+          <p class="excerpt">
+            {{! Note: must use unescaped form here since we are including raw HTML}}
+            {{{excerpt}}}
+          </p>
+        </li>
+      {{/each}}
     </ul>
   </div>
 </div>

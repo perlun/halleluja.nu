@@ -1,7 +1,7 @@
 # 'dotnet build' will potentially take care of making this one only rebuild as
 # much as is necessary. At the moment, I think it rebuilds unconditionally
 # though.
-.PHONY: sitegen
+.PHONY: sitegen posts sync_from_old
 
 SITEGEN=bin/sitegen
 
@@ -23,7 +23,7 @@ clean_sitegen:
 clean_site:
 	rm -rf out/*
 
-site: \
+site: posts \
 		out/css \
 		out/css/main.css \
 		out/favicon.ico \
@@ -42,7 +42,14 @@ site: \
 		out/tile.png
 
 autobuild:
-		while true; do find bin config.yaml Makefile src -type f | entr -d bash -c 'scripts/time_it make site' ; done
+	while true; do find bin config.yaml Makefile src -type f | entr -d bash -c 'scripts/time_it make site' ; done
+
+posts:
+	$(SITEGEN) --posts src/_posts/*.md
+
+sync_from_old:
+	rsync -av old/_posts/ src/_posts
+	for e in src/_posts/*.md ; do sed -i '/^modifiedDate/d' $$e ; done
 
 #
 # Tasks for individual files being generated.
