@@ -1,0 +1,22 @@
+{{set title=category_name}}
+{{include '_includes/header.hbs'}}
+
+<div class="site-section">
+  <div class="container">
+    <div class="post">
+      <header class="post-header">
+        <h1 class="post-title">Fler artiklar i kategorin {{category_name}}</h1>
+      </header>
+
+      <article class="post-content">
+        <ul>
+          {{#each category_posts}}
+            <li><a href="{{link}}">{{{title}}}</a> ({{date_iso}})</li>
+          {{/each}}
+        </ul>
+      </article>
+    </div>
+  </div>
+</div>
+
+{{include '_includes/footer.hbs'}}

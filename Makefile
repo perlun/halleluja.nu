@@ -45,7 +45,7 @@ autobuild:
 	while true; do find bin config.yaml Makefile src -type f | entr -d bash -c 'scripts/time_it make site' ; done
 
 posts:
-	$(SITEGEN) --posts src/_posts/*.md
+	$(SITEGEN) --posts
 
 sync_from_old:
 	rsync -av old/_posts/ src/_posts
