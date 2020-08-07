@@ -15,13 +15,13 @@ Som kristna tenderar vi väldigt lätt i att hamna i ett dike åt ena eller andr
 
 Å andra sidan så kan vi hamna i det andra diket, då vi betonar syndens makt även över den troende på ett sådant sätt att det nästan inte _alls_ verkar finnas en chans att över huvud taget få bukt med någon enda liten synd i våra liv, förrän vi efter livets slut som troende står vid Pärleporten och får ta emot segerkronan av Herren Jesus själv. Även i detta fall kan man tyckas hitta bibelstöd för ett sådant synsätt, där Paulus utläggning i Romarbrevet kanske är det allra tydligaste:
 
-> Vi vet att lagen är andlig. Men själv är jag köttslig, såld till slav under synden. Jag kan inte fatta att jag gör som jag gör. Det jag vill, det gör jag inte, men det jag hatar, det gör jag. Och om jag nu gör det jag inte vill, då erkänner jag att lagen är god. 
+> Vi vet att lagen är andlig. Men själv är jag köttslig, såld till slav under synden. Jag kan inte fatta att jag gör som jag gör. Det jag vill, det gör jag inte, men det jag hatar, det gör jag. Och om jag nu gör det jag inte vill, då erkänner jag att lagen är god.
 >
-> Men då är det inte längre jag som gör det, utan synden som bor i mig. Jag vet att det inte bor något gott i mig, det vill säga i mitt kött. Viljan finns hos mig, men inte förmågan att göra det goda. Det goda som jag vill gör jag inte, men det onda som jag inte vill, det gör jag. Men om jag gör det jag inte vill, då är det inte längre jag som gör det utan synden som bor i mig. 
+> Men då är det inte längre jag som gör det, utan synden som bor i mig. Jag vet att det inte bor något gott i mig, det vill säga i mitt kött. Viljan finns hos mig, men inte förmågan att göra det goda. Det goda som jag vill gör jag inte, men det onda som jag inte vill, det gör jag. Men om jag gör det jag inte vill, då är det inte längre jag som gör det utan synden som bor i mig.
 >
-> Jag finner alltså den lagen för mig som vill göra det goda: att det onda finns hos mig. I min inre människa gläder jag mig över Guds lag, men i mina lemmar ser jag en annan lag som kämpar mot lagen i mitt sinne och gör mig till fånge under syndens lag i min kropp. 
+> Jag finner alltså den lagen för mig som vill göra det goda: att det onda finns hos mig. I min inre människa gläder jag mig över Guds lag, men i mina lemmar ser jag en annan lag som kämpar mot lagen i mitt sinne och gör mig till fånge under syndens lag i min kropp.
 >
-> Jag arma människa! Vem ska rädda mig från denna dödens kropp? Gud vare tack, genom Jesus Kristus, vår Herre! Alltså tjänar jag själv med mitt sinne Guds lag, men med köttet tjänar jag syndens lag.  (Rom 7:14-24)
+> Jag arma människa! Vem ska rädda mig från denna dödens kropp? Gud vare tack, genom Jesus Kristus, vår Herre! Alltså tjänar jag själv med mitt sinne Guds lag, men med köttet tjänar jag syndens lag. (Rom 7:14-24)
 
 Ehh, hur är det alltså nu? Ägnar sig den som är född av Gud inte åt synd (enligt Johannes) eller är hon såld till slav under synden?
 
