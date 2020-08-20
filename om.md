@@ -4,6 +4,10 @@ title: Om halleluja.nu
 permalink: /om/
 ---
 
+<!-- Utkommenterad tills vidare. Ska ersättas med en moderniserad version. Den gamla är kul,
+     men aningen för tillspetsad kanske... :) -->
+
+<!--
 Informationssamhället av idag befinner sig i en kris, andligt sett. Internet har blivit en slags andlig kloak, en avskrädesplats utan like. Pornografi med vuxna och barn, eller djur, sprids utan att många reagerar. Handel med narkotika bedrivs utan att någon kan stoppa det. Nazistisk, fascistisk och antisemitisk hatpropaganda sprids fritt och för intet. Omoraliska och djupt destruktiva ideal, såsom feminism, socialism, materialism, evolutionism, djurrättsaktivism, pacifism propageras för och utbudet av ideologer, filosofier och religioner som vill få kontroll över vårt sinne har väl aldrig varit större.
 
 I denna miljö vill vi...
@@ -14,6 +18,7 @@ I denna miljö vill vi...
 *  Undervisa och uppbygga Guds folk, ifrån alla församlingar och sammanhang, med Guds uppenbarelse ifrån Hans Ord. <em>(Ef 4:11-13)</em>
 
 Här kan du läsa lite mer om [vår lära](/var-lara).
+-->
 
 ## Personlig information
 
