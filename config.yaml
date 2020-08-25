@@ -1,5 +1,8 @@
 config:
   source_dir: src
+  layouts_dir: src/_layouts
+  output_dir: out
+  posts_dir: src/_posts
 
 site:
   title: halleluja.nu

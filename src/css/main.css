@@ -89,6 +89,10 @@ p {
   margin: 0 0 2em
 }
 
+p.excerpt {
+    margin-top: 2em;
+}
+
 .grid {
   margin: 0 -15px;
   letter-spacing: -.31em;

@@ -1,0 +1,29 @@
+{{set title=post.title}}
+{{include '_includes/page_header.hbs'}}
+
+{{#with post}}
+  <div class="site-section">
+    <div class="container">
+      <div class="post">
+
+        <header class="post-header">
+          <h1 class="post-title">{{ page.title }}</h1>
+          <p class="post-meta">
+            {{date}}
+            {{#each categories}}
+              | <a href="{{slug}}">{{name}}</a>
+            {{/each}}
+          </p>
+        </header>
+
+        <article class="post-content">
+          {{! Note: must use unescaped form here since we are including raw HTML}}
+          {{{body}}}
+        </article>
+
+      </div>
+    </div>
+  </div>
+{{/with}}
+
+{{include '_includes/page_footer.hbs'}}
