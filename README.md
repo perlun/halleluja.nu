@@ -2,14 +2,18 @@
 
 This is the source code for the halleluja.nu web site.
 
-The site is built using the [EJS](https://ejs.co) (Embedded JavaScript) templating system.
+The site is built using [sitegen](https://github.com/perlun/sitegen), a
+tailor-made Static Site Generator developed by Per Lundberg. It is similar to
+Jekyll, Hugo and others, but writing a site generator of our own had some
+advantages in making it easier to customize small, semantic details which are
+important for the development of this web site (particularly in moving towards
+proper multi-language support).
 
 ## Installing development prerequisites
 
-```shell
-$ npm install -g live-server
-$ sudo apt-get install entr # TODO: See if this ends up being needed.
-```
+- NET Core SDK 3.1: https://dotnet.microsoft.com/download/dotnet-core/3.1
+- `apt-get install make`, to use our [Makefile](Makefile) for building sitegen
+  and the site itself.
 
 ## Rebuild sitegen and site
 
@@ -23,19 +27,13 @@ $ make
 $ make site
 ```
 
-## Automatically regenerate site every time a source file is modified
-
-```shell
-$ make autobuild
-```
-
 ## Run local web server to test it
 
 ```shell
 $ make serve
 ```
 
-## HTML template license
+## [HTML template](https://github.com/h5bp/html5boilerplate.com) license
 
 Copyright (c) HTML5 Boilerplate
 
