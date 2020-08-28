@@ -1,6 +1,6 @@
 [submodule "old"]
 	path = old
-	url = git@github.com:perlun/halleluja.nu.git
+	url = https://github.com/perlun/halleluja.nu
 [submodule "sitegen"]
 	path = sitegen
-	url = git@github.com:perlun/sitegen.git
+	url = https://github.com/perlun/sitegen
