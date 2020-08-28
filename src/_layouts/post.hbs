@@ -1,5 +1,4 @@
-{{set title=post.title}}
-{{include '_includes/page_header.hbs'}}
+{{include '_includes/header.hbs'}}
 
 {{#with post}}
   <div class="site-section">
@@ -7,7 +6,7 @@
       <div class="post">
 
         <header class="post-header">
-          <h1 class="post-title">{{ page.title }}</h1>
+          <h1 class="post-title">{{ title }}</h1>
           <p class="post-meta">
             {{date}}
             {{#each categories}}
@@ -26,4 +25,4 @@
   </div>
 {{/with}}
 
-{{include '_includes/page_footer.hbs'}}
+{{include '_includes/footer.hbs'}}
