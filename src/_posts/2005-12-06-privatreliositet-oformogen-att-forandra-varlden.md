@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        Privatreliositet - oförmögen att förändra världen
+title:        Privatreliositet &mdash; oförmögen att förändra världen
 date:         2005-12-06
 categories:
 - Världen
