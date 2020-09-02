@@ -16,7 +16,7 @@ Nyckeln i den här versen är <em>"liksom Kristus uppväcktes från de döda"</e
 
 Vi skall leva det nya livet, liksom Kristus uppväcktes från de döda, som sagt. Men vaddå? Vi har väl inte varit döda? Jo, det är precis vad vi har. Ef 2:2 säger: <em>"Också er har Gud gjort levande, ni som var döda genom era överträdelser och synder"</em>. Den död det talas om här är inte den fysiska döden, utan den <em>andliga döden</em>.
 
-<span class="pn-title">Andlig död - fiendskap mot Gud</span>
+### Andlig död - fiendskap mot Gud
 
 Innan du blev frälst, befann du dig i det som vi kallar för andlig död. Döden hade herravälde över dig (Rom 5:21). Syndens konsekvenser är ytterst sett evig död, skilsmässa från Gud. Men här i tiden leder den till andlig död, ett tillstånd av separation och fiendskap mot Gud. I ditt allra innersta, i din ande, hade du Satans natur. Det är därför bibeln beskriver att <em>"ni var en gång mörker, men nu är ni ljus i Herren"</em> (Ef 5:8). Den opånyttfödde, orättfärdige människan är alltså mörker - en del i mörkrets rike, en slav i fiendens rike, och vad allra hemskast är, oftast helt utan att han vet om det.
 
@@ -24,7 +24,7 @@ Det är därför vissa människor reagerar så starkt emot evangeliet, budskapet
 
 Men vad har detta med det nya livet i Kristus att göra, kanske du undrar? Det har väldigt mycket med det att göra, eftersom livet i Kristus är den <em>raka motsatsen till detta liv</em> som andligt död. Vi går raskt in i nästa sektion i den här lektionen.
 
-<span class="pn-title">Andligt liv - vänskap med Gud</span>
+### Andligt liv - vänskap med Gud
 
 Som född på nytt så har du fått ta del av andligt liv. Livets Ande, som formade hela den här världen i den första skapelsen har i din invärtes människa gjort ett veritabelt mirakel. Du är en ny skapelse. Det gamla är förbi, det nya har kommit (2 Kor 5:17). Istället för fiendskap med Gud råder nu gemenskap med Gud. Du har fått Guds natur (2 Pet 1:4) som är kärlek, ty <em>Gud är kärlek</em> (1 Joh 4:16, Rom 5:5). Det betyder att du, om du är född på nytt, har fått möjligheten att älska så som Gud älskar. Du har fått möjligheten att leva det liv som Jesus levde. Ett liv i seger över omständigheter. Ett liv där du bokstavligt talat går på vattnet och ser döda få liv, blinda få sin syn, hungriga bli mättade och demonbesatta bli befriade. Halleluja!
 
