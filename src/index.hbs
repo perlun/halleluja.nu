@@ -1,27 +1,15 @@
 {{include '_includes/header.hbs'}}
 
 <div class="site-section">
-  <div class="container">
-    <ul class="post-list">
+  <div class="container" style="text-align: left;">
+    <div>
+      Please select language / Välj språkversion för sidan
+    </div>
 
-      {{#each blog_posts}}
-        <li>
-          <h2>
-            <a class="post-link" href="{{link}}">{{{title}}}</a>
-          </h2>
-
-          <span class="post-meta">{{date}}</span>
-          {{#each categories}}
-            | <a href="{{slug}}">{{name}}</a>
-          {{/each}}
-
-          <p class="excerpt">
-            {{! Note: must use unescaped form here since we are including raw HTML}}
-            {{{excerpt}}}
-          </p>
-        </li>
-      {{/each}}
-    </ul>
+    <div style="margin-top: 1rem;">
+      <a href="/sv">Svenska (Swedish)</a> |
+      <a href="/en">English</a>
+    </div>
   </div>
 </div>
 

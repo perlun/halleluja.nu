@@ -1,0 +1,29 @@
+{{set language='sv'}}
+{{include '_includes/header.hbs'}}
+
+<div class="site-section">
+  <div class="container">
+    <ul class="post-list">
+
+      {{#each blog_posts.sv}}
+        <li>
+          <h2>
+            <a class="post-link" href="{{link}}">{{{title}}}</a>
+          </h2>
+
+          <span class="post-meta">{{date}}</span>
+          {{#each categories}}
+            | <a href="{{slug}}">{{name}}</a>
+          {{/each}}
+
+          <p class="excerpt">
+            {{! Note: must use unescaped form here since we are including raw HTML}}
+            {{{excerpt}}}
+          </p>
+        </li>
+      {{/each}}
+    </ul>
+  </div>
+</div>
+
+{{include '_includes/footer.hbs'}}

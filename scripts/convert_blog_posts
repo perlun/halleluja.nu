@@ -1,0 +1,69 @@
+#!/usr/bin/env ruby
+
+#
+# Quick-and-dirty script for converting blog posts from the backup from the
+# previous-previous CMS system we used for the site. (before Jekyll)
+#
+
+require 'json'
+
+SOURCE_JSON_FILE = 'old/backup/article.json'
+LANGUAGE = 'en'
+TARGET_DIR = "src/_posts/#{LANGUAGE}"
+
+categories = {
+  'sv' => {
+    1 => 'Undervisning från bibeln',
+    2 => 'Frälsning',
+    3 => 'Guds kärlek',
+    4 => 'Tillbedjan',
+    6 => 'Världen',
+    7 => 'Trons ABC'
+  },
+  'en' => {
+    1 => 'Teaching from the Word of God',
+    2 => 'Salvation',
+    3 => 'The Love of God',
+    4 => 'Worship',
+  }
+}
+
+json_text = IO.read(SOURCE_JSON_FILE)
+json_text = json_text
+  .strip
+  .delete("\r")
+  .gsub("'", "\\\\'")
+  .gsub("\n", '\\n')
+articles = JSON.parse(json_text, object_class: OpenStruct)
+
+articles
+  .select { |a| a.language == LANGUAGE }
+  .each { |a|
+    a.text.gsub!('</p> <p', '</p><p')
+    a.text.gsub!('</p><p class="quote">', '<br><br>')
+
+    s = <<-EOF
+---
+layout:       post
+title:        #{a.subject.sub("\n", ' ')}
+date:         #{a.createdDate}
+categories:
+- #{categories[a.language][a.topicID]}
+language:     #{a.language}
+---
+#{a.introduction.delete('\\')}
+
+#{a.text}
+EOF
+    slug = a.subject
+      .downcase
+      .tr("\n", ' ')
+      .tr(' ', '-')
+      .delete(',!?')
+      .tr('ÅÄÖ', 'aao')
+      .tr('åäö', 'aao')
+      .gsub('&mdash;', '-')
+      .gsub(/-+/, '-')
+    filename = "#{a.modifiedDate}-#{slug}.md"
+    File.write("#{TARGET_DIR}/#{filename}", s)
+  }

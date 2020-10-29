@@ -3,6 +3,7 @@ config:
   layouts_dir: src/_layouts
   output_dir: out
   posts_dir: src/_posts
+  multiple_languages: true
 
 site:
   title: halleluja.nu

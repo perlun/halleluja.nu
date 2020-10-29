@@ -57,7 +57,7 @@
               }
           }
 
-          document.write("<a href='mailto:"+link+"'>Per Lundberg</a>")
+          document.write("<a href='mailto:"+link+"'>(" + link + ")</a>")
       }
   </script>
 </head>
@@ -66,14 +66,26 @@
 
   <div class=container>
     <div class="site-header clearfix" role=banner>
-      <a href="/">
+      <a href="/{{ language }}">
         <div class=site-logo>halleluja
           <span class=star>&#x2605;</span> nu
         </div>
       </a>
       <ul class="site-nav inline-block-list">
-        <li><a href="/">Start</a></li>
+        {{#ifeq language null}}
+        <li><a href="/en">EN</a></li>
+        <li><a href="/sv">SV</a></li>
+        {{/ifeq}}
+        {{#ifeq language 'sv'}}
+        <li><a href="/sv">Start</a></li>
         <li><a href="/sv/om">Om oss</a></li>
+        <li><a href="/">Language</a></li>
+        {{/ifeq}}
+        {{#ifeq language 'en'}}
+        <li><a href="/en">Start</a></li>
+        <li><a href="/en/about">About us</a></li>
+        <li><a href="/">Language</a></li>
+        {{/ifeq}}
       </ul>
     </div>
   </div>
