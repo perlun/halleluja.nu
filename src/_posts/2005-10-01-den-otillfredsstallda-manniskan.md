@@ -5,6 +5,7 @@ date:         2005-10-01
 categories:
 - Frälsning
 language:     sv
+line_breaks:  soft
 ---
 Människor är idag otillfredsställda. Nu är ju detta knappast någon sensationell
 nyhet för den observante. Inte heller är det precis så att detta fenomen

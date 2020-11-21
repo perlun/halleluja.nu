@@ -5,13 +5,14 @@ date:         2002-02-08
 categories:
 - Guds kärlek
 language:     sv
----
-Vi har kommit till
-artikel tre i serien utifrån 1 Kor 13:4-7. Om du missat de tidigare så
-finns de i arkivet här på sidan.
+line_breaks:  soft
 
-<em>Kärleken skryter inte.</em> Vad innebär det? Ja, det kan vi bland annat
-se genom att titta på vår Mästares liv. Han hade många tillfällen att ta fram sin
+---
+Vi har kommit till artikel tre i serien utifrån 1 Kor 13:4-7. Om du missat de
+tidigare så finns de i arkivet här på sidan.
+
+<em>Kärleken skryter inte.</em> Vad innebär det? Ja, det kan vi bland annat se
+genom att titta på vår Mästares liv. Han hade många tillfällen att ta fram sin
 "titel" för att få folk att lyssna. "Jag är Jehova, din förbundsgud. Det var jag
 som ingick ett blodsförbund med er fader Abraham!". Men aldrig, någonsin gjorde
 han det. Istället så frågade han sina lärjungar "Vem säger ni att jag är?". Här

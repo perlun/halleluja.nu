@@ -12,6 +12,19 @@
   <meta property="og:url" content="">
   <meta property="og:image" content="">
 
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@perlundberg">
+  <meta name="twitter:creator" content="@perlundberg">
+  {{#if post.title }}
+  <meta name="twitter:title" content="{{ post.title }}">
+  {{else}}
+  <meta name="twitter:title" content="{{ site.title }}">
+  {{/if}}
+  {{#if post.excerpt}}
+  <meta name="twitter:description" content="{{ post.excerpt }}">
+  {{/if}}
+  <meta name="twitter:image" content="https://www.halleluja.nu/icon.png">
+
   <link rel="manifest" href="/site.webmanifest">
   <link rel="apple-touch-icon" href="/icon.png">
   <!-- Place favicon.ico in the root directory -->

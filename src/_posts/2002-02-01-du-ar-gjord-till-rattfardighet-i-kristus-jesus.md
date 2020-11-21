@@ -5,6 +5,7 @@ date:         2002-02-01
 categories:
 - Undervisning från bibeln
 language:     sv
+line_breaks:  soft
 ---
 Många människor idag har problem med
 rättfärdighet. Eller snarare bristen av rättfärdighet. Kristna likväl

@@ -5,6 +5,7 @@ date:         2002-02-03
 categories:
 - Undervisning från bibeln
 language:     sv
+line_breaks:  soft
 ---
 Jesu blod är det underbaraste som finns. Det är tack vare Jesu
 blod som vi får ha en relation med vår Fader i himmelen, det är tack

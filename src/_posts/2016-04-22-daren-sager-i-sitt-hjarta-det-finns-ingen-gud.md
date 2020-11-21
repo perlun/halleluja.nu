@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        Dåren säger i sitt hjärta&#58; "Det finns ingen Gud"
+title:        'Dåren säger i sitt hjärta: "Det finns ingen Gud"'
 date:         2016-04-22
 categories:
 - Undervisning från bibeln

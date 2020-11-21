@@ -5,6 +5,7 @@ date:         2002-02-03
 categories:
 - Undervisning från bibeln
 language:     sv
+line_breaks:  soft
 ---
 Den här predikan fick jag när
 jag satt och bad med min bönegrupp en dag. Det ska bli spännande att
@@ -149,4 +150,3 @@ starkare i mitt liv. Låt mig få leva ett starkt, utgivande liv där jag
 inte bara själv är välsignad av dig utan där jag är till välsignelse
 för andra människor. I Ditt dyrbara namn,
 Mästare. Amen.</em>
-

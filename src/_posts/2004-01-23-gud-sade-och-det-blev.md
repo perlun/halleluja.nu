@@ -5,6 +5,7 @@ date:         2004-01-23
 categories:
 - Undervisning från bibeln
 language:     sv
+line_breaks:  soft
 ---
 I bibelns första verser, 1 Mos 1:1f så står det så här:
 

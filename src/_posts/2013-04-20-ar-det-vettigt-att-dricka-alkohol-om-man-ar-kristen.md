@@ -28,7 +28,9 @@ Jag tror att Herren kallar oss alla till ett "högre liv", till en högre och dj
 
 När vi väljer bort flaskan och istället söker Herren så fyller han oss med en underbar Gudsnärvaro som gör oss helt saliga, och Han för oss till en plats där intet fattas oss. En plats där Gud är vårt allt, där vi blir "helt uppfyllda av all Guds fullhet" (Ef 5:19). En plats där inget annat djupast betyder något för oss.
 
-Till sist vill jag avsluta med ett citat från <a href="http://en.wikipedia.org/wiki/Catherine_Booth">Catherine Booth</a>, fru till William Booth som grundade Frälsningsarmén:</p><p class="bible">Alkoholen har:<br><br>
+Till sist vill jag avsluta med ett citat från <a href="http://en.wikipedia.org/wiki/Catherine_Booth">Catherine Booth</a>, fru till William Booth som grundade Frälsningsarmén:
+
+<p class="bible">Alkoholen har:<br><br>
     Utgjutit mer blod,<br>
     hängt mer sorgflor,<br>
     ödelagt fler hem,<br>
@@ -48,9 +50,10 @@ Till sist vill jag avsluta med ett citat från <a href="http://en.wikipedia.org/
     än något annat gissel som världen varit förbannad med.<br><br>
 Den har dödat fler människor än alla krig på jorden.<br>
 Den är djävulen i flytande form!
+</p>
 
 Starka ord kan tyckas. Men jag är beredd att hålla med. Och frågan är väl egentligen - kan vi med insikt om detta verkligen med gott samvete ha något över huvud taget med denna "djävul" att göra?
 
-Citatet ovan är från boken "<a href="http://ws.livetsord.se/det-ar-aldrig-fel-att-vara-helnykter-mjukband.html">Det är aldrig fel att vara helnykter</a>" av <a href="http://www.facebook.com/carlgustaf.severin">Carl-Gustav Severin</a>. Jag rekommenderar boken starkt. Den utvecklar detta ämne mycket djupare än vad som är möjligt att göra i en kort artikel likt denna.
+Citatet ovan är från boken "<a href="https://webshop.livetsord.se/produkt/det-ar-aldrig-fel-att-vara-helnykter/">Det är aldrig fel att vara helnykter</a>" av <a href="http://www.facebook.com/carlgustaf.severin">Carl-Gustav Severin</a>. Jag rekommenderar boken starkt. Den utvecklar detta ämne mycket djupare än vad som är möjligt att göra i en kort artikel likt denna.
 
 Må Gud <em>välsigna</em> och <em>bevara</em> oss alla, från nu och till evig tid. Amen.

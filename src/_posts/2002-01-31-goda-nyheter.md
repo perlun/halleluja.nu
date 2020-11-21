@@ -5,6 +5,7 @@ date:         2002-01-31
 categories:
 - Frälsning
 language:     sv
+line_breaks:  soft
 ---
 Det du kommer få höra nu kallas för evangelium, eller
 "goda nyheter" på vanlig svenska. Du kanske inte tycker att det
@@ -313,4 +314,3 @@ amen.</em>
 Kontakta gärna mig om det är något mer du behöver
 för att komma ut i fullheten av vad Gud har för dig. Gud välsigne
 dig!
-
