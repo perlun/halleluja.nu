@@ -6,7 +6,7 @@ categories:
 - Worship
 language:     en
 ---
-This hymn was written by John Newton sometime in the late 18:th century. You have probably heard it before, but take your time to read the lyrics. They are so incredibly strong.
+This hymn was written by [John Newton](https://en.wikipedia.org/wiki/John_Newton) sometime in the late 18:th century. You have probably heard it before, but take your time to read the lyrics. They are so incredibly strong.
 
 Amazing grace! How sweet the sound
 That saved a wretch like me!
@@ -42,4 +42,3 @@ When we’ve been there ten thousand years,
 Bright shining as the sun,
 We’ve no less days to sing God’s praise
 Than when we’d first begun.
-

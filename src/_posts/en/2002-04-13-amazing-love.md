@@ -8,7 +8,7 @@ language:     en
 ---
 <em>Suddenly there was such a violent earthquake that the foundations of the prison were shaken. At once all the prison doors flew open, and everybody's chains came loose.</em> (Acts 16:26)
 
-The hymn is written by Charles Wesley, the brother of John Wesley who founded the Methodist church.
+The hymn is written by [Charles Wesley](https://en.wikipedia.org/wiki/Charles_Wesley), the brother of [John Wesley](https://en.wikipedia.org/wiki/John_Wesley) who founded the Methodist church.
 
 And can it be that I should gain
 An interest in the Savior’s blood?
@@ -63,4 +63,3 @@ Bold I approach th\'eternal throne,
 And claim the crown, through Christ my own.
 Bold I approach th\'eternal throne,
 And claim the crown, through Christ my own.
-

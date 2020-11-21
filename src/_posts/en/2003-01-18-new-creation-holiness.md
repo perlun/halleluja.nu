@@ -6,6 +6,8 @@ categories:
 - Teaching from the Word of God
 language:     en
 ---
+> This teaching was originally written by pastor Joe McIntyre, who went home to be with the Lord in December 2017. Thanks for all your hard work, Joe. You are truly a blessing even after leaving us here on earth.
+
 If you have received Christ as your Lord and Savior, you have become a New Creation. You are not who you were. A new Life and a new nature have entered your spirit. You have received God's gift of Righteousness and the abundance of the Grace of God (Rom.5:17). Paul informs us that we have been re-created out Righteousness and Holiness of Truth (Eph.4:24). Old things &mdash; the things of Adam &mdash; have passed away, and all thing in you re-created spirit are of God (2 Cor. 5:17,18).
 
 It is important that we grasp who we are in Christ and become secure in our new Identity in Him. These are Realities and not "positional" truths. Our truest nature is made new and is of God. God took out the stony heart and gave us a heart of flesh upon which He is writing His Laws (2 Cor. 3).
@@ -28,4 +30,4 @@ The world deserves to see what Christ died and rose again to show them: A People
 
 Holiness is not optional.
 
-If this is a blessing to you, feel free to pass it on to others. Please include my email address so if the recipient so desires, he or she may be added to my mailing list for future teachings. 
+If this is a blessing to you, feel free to pass it on to others. Please include my email address so if the recipient so desires, he or she may be added to my mailing list for future teachings.

@@ -6,6 +6,8 @@ categories:
 - Teaching from the Word of God
 language:     en
 ---
+> This teaching was originally written by pastor Joe McIntyre, who went home to be with the Lord in December 2017. Thanks for all your hard work, Joe. You are truly a blessing even after leaving us here on earth.
+
 I was driving down the freeway to attend the board meeting of the International Fellowship of Ministries which was then known as Ministerial Fellowship of the USA. This organization of ministers was founded by John G. Lake shortly before World War II. At that time a was a trustee on the board.
 
 As I drove down the road I was meditating in my mind on the scripture that I had been pondering that morning in prayer. The scripture was Eph. 2:10 "For we are His workmanship, created in Christ Jesus, for good works that God prepared beforehand for us to walk in." I was chewing on the first part of the verse, "for we are His workmanship, created in Christ Jesus?" I like to meditate on the "in Christ" scriptures as a way of building myself up.
@@ -45,4 +47,4 @@ I have begun a book on the life and ministry of Lake. I discovered in my researc
 Let us go up and take the Land, we are well able!
 Joe McIntyre
 
-If this is a blessing to you, feel free to pass it on to others. Please include my email address so if the recipient so desires, he or she may be added to my mailing list for future teachings. 
+If this is a blessing to you, feel free to pass it on to others. Please include my email address so if the recipient so desires, he or she may be added to my mailing list for future teachings.
