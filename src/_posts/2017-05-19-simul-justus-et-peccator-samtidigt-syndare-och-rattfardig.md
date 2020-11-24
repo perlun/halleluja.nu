@@ -9,6 +9,8 @@ language:     sv
 
 En av Martin Luthers mer centrala begrepp är _simul justus et peccator_, synsättet att människan även i sitt försonade tillstånd då hon är _rättfärdiggjord_ inför Gud fortfarande på samma gång är en syndare. I denna artikel tänkte jag vi skulle titta lite närmare på detta.
 
+> **Teologisk disclaimer**: Jag står inte själv bakom läran om "samtidigt syndare och rättfärdig", och jag har utvecklat det lite mer i något tidigare blogginlägg. Jag tycker dock samtidigt att det är en intressant förklaringsmodell och den lutherska synen har något att ge även oss som landar i en annan antropologi (syn på människan). Över lag tror jag att vi som kristna ofta har att vinna på en nyfiken och positiv grundsyn på våra kristna bröder och systrars sätt att se på världen.
+
 Som kristna tenderar vi väldigt lätt i att hamna i ett dike åt ena eller andra hållet. Frågan om "syndare eller rättfärdig" är en sådan. Antingen så tenderar vi att betona nåden, rättfärdiggörelsen och helgelsen på ett sådant sätt att man kan få ett intryck av att synden inte längre är ett problem i en kristen människas liv. Det går också att styrka ett sådant synsätt på vissa bibelställen, t.ex. detta stycke från Johannes första brev:
 
 > Den som är född av Gud ägnar sig inte åt synd, för Guds säd förblir i honom. Han kan inte synda, eftersom han är född av Gud. (1 Joh 3:9)
