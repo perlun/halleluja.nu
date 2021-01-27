@@ -14,6 +14,7 @@ proper multi-language support).
 - NET Core SDK 3.1: https://dotnet.microsoft.com/download/dotnet-core/3.1
 - `apt-get install make`, to use our [Makefile](Makefile) for building sitegen
   and the site itself.
+- MariaDB with [bible_databases](https://github.com/scrollmapper/bible_databases) data loaded is presumed to be available with passwordless `mysql` CLI for some of the scripts.
 
 ## Rebuild sitegen and site
 
