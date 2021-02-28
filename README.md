@@ -34,6 +34,14 @@ $ make site
 $ make serve
 ```
 
+## Run local web server _and_ rebuild automatically
+
+(Requires [forego](https://github.com/ddollar/forego) to be installed)
+
+```shell
+$ forego start
+```
+
 ## [HTML template](https://github.com/h5bp/html5boilerplate.com) license
 
 Copyright (c) HTML5 Boilerplate
