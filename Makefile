@@ -10,7 +10,7 @@ all: sitegen site
 
 sitegen: bin
 	cd sitegen && dotnet build
-	cp sitegen/SiteGenerator.ConsoleApp/bin/Debug/netcoreapp3.1/* bin/
+	cp -r sitegen/SiteGenerator.ConsoleApp/bin/Debug/net5.0/* bin/
 
 bin:
 	mkdir -p bin
